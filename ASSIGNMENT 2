@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Steps Analysis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2rem;
+            line-height: 1.6;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <h1>Weekly Steps Analysis</h1>
+
+    <p>Understanding our daily physical activity is <strong>important</strong> for maintaining a healthy lifestyle. This analysis explores the number of steps I walked each day over the past week, compares my progress over time, and benchmarks my performance against my friends.</p>
+
+    <h2>Weekly Step Totals</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Day</th>
+                <th>Steps Walked</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Monday</td>
+                <td>10,500</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td>12,000</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>11,800</td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td>13,200</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td>9,700</td>
+            </tr>
+            <tr>
+                <td>Saturday</td>
+                <td>14,000</td>
+            </tr>
+            <tr>
+                <td>Sunday</td>
+                <td>12,500</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Comparison Table</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Metric</th>
+                <th>My Steps</th>
+                <th>Group Average</th>
+                <th>Highest Steps</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Weekly Total Steps</td>
+                <td>82,700</td>
+                <td>92,400</td>
+                <td>110,000</td>
+            </tr>
+            <tr>
+                <td>Daily Average Steps</td>
+                <td>11,814</td>
+                <td>13,200</td>
+                <td>15,714</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Conclusion</h2>
+    <p>This analysis highlighted both successes and areas for growth in my weekly activity. Key next steps include:</p>
+    <ul>
+        <li>Increasing daily consistency (focus on workdays).</li>
+        <li>Participating in more group activities to stay motivated.</li>
+    </ul>
+
+    <blockquote>
+        “Success is the sum of small efforts repeated day in and day out.” – Robert Collier
+    </blockquote>
+
+    <p>If you'd like to learn more about why tracking your steps matters, check out <a href="https://www.healthline.com/nutrition/benefits-of-walking">this article</a>.</p>
+
+    <h2>Contact</h2>
+    <p>If you have any questions, feel free to reach out via email: <br>
+    <!--email_off-->22f1000935@ds.study.iitm.ac.in<!--/email_off--></p>
+</body>
+</html>
